@@ -19,7 +19,7 @@ Models:
 
 Data:
 1. Simulated data are available in ./data of this package; Data generator are available in this package too.
-2. Multi-tumor RNA-seq data are available in ./data of this package. 
+2. Multi-tumor RNA-seq data are too big to upload. Please request it directly from Yifeng. 
 
 Examples:
 1. main_mvnmf_sim.py: Example of how to use mvnmf on the simulated data.
