@@ -1,15 +1,15 @@
 Introduction:
 This is the multi-view matrix factorization (MVMF) package in Python 2.7 devloped by Yifeng Li with NRC, Ottawa.  
 
-Version: 1.1
+Version: 1.2
 
 Depencency: numpy, scipy, matplotlib.
 
 Installation:
 (0. Install DECRES (https://github.com/yifeng-li/DECRES) for calling the implemented classifiers.)
 1. Download MVMF from github.
-2. Uncompress it to your local machine, say YOUR_PATH/mvmf_v1_1.
-3. Add "export PYTHONPATH=$PYTHONPATH:YOUR_PATH/mvmf_v1_1" to your .bashrc.
+2. Uncompress it to your local machine, say YOUR_PATH/mvmf_v1_2.
+3. Add "export PYTHONPATH=$PYTHONPATH:YOUR_PATH/mvmf_v1_2" to your .bashrc.
 
 Models:
 1. Multi-class non-negative matrix factorization (MC-NMF): mcnmf.py.
